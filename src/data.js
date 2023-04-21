@@ -4,6 +4,15 @@ function chillHop() {
     return [
 
         {
+            name:"Rock And Roll Heaven",
+            artist: "Rock And Roll",
+            cover: "http://rock-and-roll.dab-radios.org/ro/wp-content/uploads/2022/11/Rock-And-Roll-Heaven.png",
+            id: uuidv4(),
+            color: ["#F24933", "#F9B437"],
+            audio: "https://streams.radio.co/see9cf0008/listen",
+            active: true,
+        },
+        {
             name:"Su Presencia",
             artist: "Music",
             cover: "https://dab-radios.org/admin_panel_crisradiocolombia/uploads/radios/radio_81399_Su Presencia.png",
