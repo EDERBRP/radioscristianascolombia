@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from "uuid";
 function chillHop() {
     return [
 
-        {
+         {
             name:"Su Presencia",
             artist: "Music",
             cover: "https://dab-radios.org/admin_panel_crisradiocolombia/uploads/radios/radio_81399_Su Presencia.png",
@@ -184,12 +184,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Casa de Dios Sobrenatural
+            name:"Casa de Dios Sobrenatural",
             artist: "Music",
-            cover: "https://dab-radios.org/admin_panel_crisradiocolombia/uploads/radios/radio_87269_Casa de Dios Sobrenatural.png
+            cover: "https://dab-radios.org/admin_panel_crisradiocolombia/uploads/radios/radio_87269_Casa de Dios Sobrenatural.png",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://radio35.virtualtronics.com/proxy/casadediossobrenatural?mp=%2Fstream
+            audio: "https://radio35.virtualtronics.com/proxy/casadediossobrenatural?mp=%2Fstream",
             active: false,
         },
         {
